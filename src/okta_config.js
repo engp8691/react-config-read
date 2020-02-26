@@ -1,7 +1,7 @@
 let okta_config = {"hello": "world"};
 
-export const setConfig = c=>{
-    okta_config = {...c};
+export const setConfig = data=>{
+    okta_config = {...data};
 }
 
 export const getConfig = ()=>{
