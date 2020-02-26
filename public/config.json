@@ -1,0 +1,9 @@
+{
+    "REACT_APP_ISSUERURL": "localhost",
+    "REACT_APP_CLIENTID": "SDgireeyeke124-35215",
+    "REACT_APP_FEEDBACH_EMAIL": "noreply@cab.com",
+    "REACT_APP_LOOKUP_COMPANY": "http://locahost:8090/",
+    "REACT_APP_LOOKUP_CLINET": "http://locahost:8092/",
+    "REACT_APP_DECISION": "http://locahost:8093/",
+    "REACT_APP_EXCEPTION": "http://locahost:8097/"
+}
